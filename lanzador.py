@@ -5,7 +5,7 @@ from capa_convolucion_aumentada_4 import capa_convolucion_aumentada_4
 import pandas as pnd
 def menu():
     print("========================")
-    print(" BIENVENIDO A PREDICCIÓN_NEURONAS ")
+    print(" BIENVENIDO A CLASIFICACIÓN_IMAGENES ")
     print("========================")
     print("[1] RED NEURONAL CONVOLUCIONAL CON 1 CAPA DE CONVOLUCION ")
     print("[2] RED NEURONAL CON 1 CAPA DE CONVOLUCION Y UNA CANTIDAD DE IMAGENES AUMENTADA ")
